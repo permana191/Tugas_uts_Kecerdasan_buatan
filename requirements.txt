@@ -1,0 +1,10 @@
+Flask
+gunicorn
+Werkzeug
+numpy
+pandas
+scikit-learn
+joblib
+scipy
+tensorflow-cpu
+keras
